@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "61afe544a473057ebb1d9c5f"
+  },
+  "email": "collaborateur@gmail.com",
+  "password": "$2b$10$Ql0Onx4cW7nu8vUNvCsFaOkAOu6qbjY2NwaZrm/MDnBURbbqU3Mme",
+  "lastname": "YUKSEL",
+  "firstname": "Sergen",
+  "group": [
+    {
+      "$oid": "61afe51ba473057ebb1d9c5a"
+    }
+  ],
+  "role": "collaborator",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61afe5bba473057ebb1d9c75"
+  },
+  "email": "correcteur@gmail.com",
+  "password": "$2b$10$lngDwyUEzB.7AD.rvnGG.OcSCvO6twbXA1RfA9A1X6Pcsh5TrimzO",
+  "lastname": "TRIONFINI",
+  "firstname": "Sebastien",
+  "group": [
+    {
+      "$oid": "61afe51ba473057ebb1d9c5a"
+    }
+  ],
+  "role": "corrector",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b0dcb381f67bf34a37744f"
+  },
+  "email": "tato@gmail.com",
+  "password": "$2b$10$3Zyq0yzgLpFSfJcYU3muaeX4wlcpTDaT0XBXIFoF2y5yx1Oq.wa1W",
+  "lastname": "Tato",
+  "firstname": "Tati",
+  "group": [
+    {
+      "$oid": "61afe51ba473057ebb1d9c5a"
+    }
+  ],
+  "role": "collaborator",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ca6ac2e9fd827e5d808317"
+  },
+  "email": "collab@gmail.com",
+  "password": "$2b$10$9MJkAGEuo1.J4IjRAqkQ3OMRHUbYELrCJcyGox1CsSpVYQjGal.Uu",
+  "lastname": "collab",
+  "firstname": "collab",
+  "group": [
+    {
+      "$oid": "61b0ce4981f67bf34a3773f0"
+    }
+  ],
+  "role": "collaborator",
+  "__v": 0
+}]

@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "619b49bc2f33d77f42e6a76c"
+  },
+  "name": "SLAM",
+  "description": "ceci est la catégorie SLAM",
+  "updated_date": {
+    "$date": "2021-11-22T07:41:48.843Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619b53dfa8f62770680133b7"
+  },
+  "name": "Maths",
+  "description": "ceci est la catégorie Maths",
+  "updated_date": {
+    "$date": "2021-11-22T08:25:03.725Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619b5404a8f62770680133c8"
+  },
+  "name": "SVT",
+  "description": "Ceci est la catégorie SVT",
+  "updated_date": {
+    "$date": "2021-11-22T08:25:40.024Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a3838bc6309c6cc4684d12"
+  },
+  "name": "Physique Chimie",
+  "description": "Types de questions : TP Chimie - La Physique - L'energie - Le son",
+  "updated_date": {
+    "$date": "2021-11-28T13:26:35.142Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b0cdca81f67bf34a3773e5"
+  },
+  "name": "Rouge",
+  "description": "rouge",
+  "updated_date": {
+    "$date": "2021-12-08T15:22:50.574Z"
+  },
+  "__v": 0
+}]

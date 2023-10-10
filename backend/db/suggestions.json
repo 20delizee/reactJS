@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "623203085d16407e55ed0d71"
+  },
+  "questionName": "sql_1",
+  "questionAnswer": "ALTER TABLE ...",
+  "questionCategory": "SLAM",
+  "questionContent": "Comment modifier une table SQL ?",
+  "questionPoint": 2,
+  "updated_date": {
+    "$date": "2022-03-16T15:32:24.890Z"
+  },
+  "__v": 0
+}]

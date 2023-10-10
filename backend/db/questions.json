@@ -1,0 +1,131 @@
+[{
+  "_id": {
+    "$oid": "619b4a132f33d77f42e6a771"
+  },
+  "questionName": "SLAM-01",
+  "questionContent": "Comment faire une jointure dans une BDD MySQL ?",
+  "questionCategory": "SLAM",
+  "questionPoint": "4",
+  "questionAnswer": "INNER JOIN id = category.id",
+  "updated_date": {
+    "$date": "2021-11-22T07:43:15.769Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619b5481a8f62770680133d9"
+  },
+  "questionName": "MATH-01",
+  "questionContent": "2 x 2",
+  "questionCategory": "Maths",
+  "questionPoint": "3",
+  "questionAnswer": "4",
+  "updated_date": {
+    "$date": "2021-11-22T08:27:45.715Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619b54bba8f62770680133df"
+  },
+  "questionName": "SVT-01",
+  "questionContent": "Où se forme le Quartz ?",
+  "questionCategory": "SVT",
+  "questionPoint": "5",
+  "questionAnswer": "Lors de l'éruption d'un volcan",
+  "updated_date": {
+    "$date": "2021-11-22T08:28:43.669Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619b56b8a8f62770680133f0"
+  },
+  "questionName": "MATH-02",
+  "questionContent": "8 + 21 x 2",
+  "questionCategory": "Maths",
+  "questionPoint": "2",
+  "questionAnswer": "50",
+  "updated_date": {
+    "$date": "2021-11-22T08:37:12.039Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619b56f4a8f62770680133f6"
+  },
+  "questionName": "SLAM-02",
+  "questionContent": "Citez moi un langage de programmation",
+  "questionCategory": "SLAM",
+  "questionPoint": "2",
+  "questionAnswer": "PHP",
+  "updated_date": {
+    "$date": "2021-11-22T08:38:12.975Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619b572aa8f62770680133fc"
+  },
+  "questionName": "SVT-02",
+  "questionContent": "Comme nomme t-on les endroits ou il y a du magma sous le volcan ?",
+  "questionCategory": "SVT",
+  "questionPoint": "3",
+  "questionAnswer": "Les chambres magmatiques",
+  "updated_date": {
+    "$date": "2021-11-22T08:39:06.503Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a38403c6309c6cc4684d19"
+  },
+  "questionName": "Physque-période",
+  "questionContent": "Donnez la définition d'une onde périodique",
+  "questionCategory": "Physique Chimie",
+  "questionPoint": "2",
+  "questionAnswer": "C'est une onde ayant pour valeur T, où a chaque T, elle représente la même onde, c'est une répétition.",
+  "updated_date": {
+    "$date": "2021-11-28T13:28:35.391Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cf2ea6d949f5824807469b"
+  },
+  "questionName": "Qs-01",
+  "questionContent": "En quelle année ?",
+  "questionCategory": "Physique Chimie",
+  "questionPoint": "2",
+  "questionAnswer": "2001",
+  "updated_date": {
+    "$date": "2021-12-31T16:24:06.674Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6231ff955d16407e55ed0d36"
+  },
+  "questionName": "Maths N2",
+  "questionContent": "2 + 2",
+  "questionCategory": "Maths",
+  "questionPoint": "1",
+  "questionAnswer": "4",
+  "updated_date": {
+    "$date": "2022-03-16T15:16:50.397Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623202375d16407e55ed0d5f"
+  },
+  "questionName": "SVT",
+  "questionContent": "Comment ça marche ?",
+  "questionCategory": "SVT",
+  "questionPoint": "3",
+  "questionAnswer": "Comme ça",
+  "updated_date": {
+    "$date": "2022-03-16T15:26:17.026Z"
+  },
+  "__v": 0
+}]

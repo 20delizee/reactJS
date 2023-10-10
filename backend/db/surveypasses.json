@@ -1,0 +1,196 @@
+[{
+  "_id": {
+    "$oid": "61ca8dc9e9fd827e5d808453"
+  },
+  "userId": [
+    {
+      "$oid": "61ca6ac2e9fd827e5d808317"
+    }
+  ],
+  "surveyId": [
+    {
+      "$oid": "61ca8b99e9fd827e5d808425"
+    }
+  ],
+  "reponse": [
+    "Onde avec meme frequence"
+  ],
+  "updated_date": {
+    "$date": "2021-12-28T04:08:41.561Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ca8ddbe9fd827e5d80845a"
+  },
+  "userId": [
+    {
+      "$oid": "61ca6ac2e9fd827e5d808317"
+    }
+  ],
+  "surveyId": [
+    {
+      "$oid": "61ca8c09e9fd827e5d80842f"
+    }
+  ],
+  "reponse": [
+    "4",
+    "je sais pas"
+  ],
+  "updated_date": {
+    "$date": "2021-12-28T04:08:59.355Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ca8df1e9fd827e5d808461"
+  },
+  "userId": [
+    {
+      "$oid": "61ca6ac2e9fd827e5d808317"
+    }
+  ],
+  "surveyId": [
+    {
+      "$oid": "61ca8c25e9fd827e5d808439"
+    }
+  ],
+  "reponse": [
+    "Quartz",
+    "Volcan"
+  ],
+  "updated_date": {
+    "$date": "2021-12-28T04:09:21.543Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ca9107e9fd827e5d808488"
+  },
+  "userId": [
+    {
+      "$oid": "61afe544a473057ebb1d9c5f"
+    }
+  ],
+  "surveyId": [
+    {
+      "$oid": "61ca8b99e9fd827e5d808425"
+    }
+  ],
+  "reponse": [
+    "test"
+  ],
+  "updated_date": {
+    "$date": "2021-12-28T04:22:31.816Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cb4bf69a39820f541d1522"
+  },
+  "userId": [
+    {
+      "$oid": "61ca6ac2e9fd827e5d808317"
+    }
+  ],
+  "surveyId": [
+    {
+      "$oid": "61ca8c09e9fd827e5d80842f"
+    }
+  ],
+  "reponse": [
+    "4",
+    "50"
+  ],
+  "updated_date": {
+    "$date": "2021-12-28T17:40:06.682Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cf28fdd949f58248074624"
+  },
+  "userId": [
+    {
+      "$oid": "61afe544a473057ebb1d9c5f"
+    }
+  ],
+  "surveyId": [
+    {
+      "$oid": "61ca8c25e9fd827e5d808439"
+    }
+  ],
+  "reponse": [
+    "kekdk",
+    "kdksqdqsk"
+  ],
+  "updated_date": {
+    "$date": "2021-12-31T15:59:57.387Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cf2a34d949f58248074634"
+  },
+  "userId": [
+    {
+      "$oid": "61afe544a473057ebb1d9c5f"
+    }
+  ],
+  "surveyId": [
+    {
+      "$oid": "61ca8b99e9fd827e5d808425"
+    }
+  ],
+  "reponse": [
+    "oui"
+  ],
+  "updated_date": {
+    "$date": "2021-12-31T16:05:08.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cf2a6bd949f58248074639"
+  },
+  "userId": [
+    {
+      "$oid": "61afe544a473057ebb1d9c5f"
+    }
+  ],
+  "surveyId": [
+    {
+      "$oid": "61ca8c09e9fd827e5d80842f"
+    }
+  ],
+  "reponse": [
+    "4",
+    "50"
+  ],
+  "updated_date": {
+    "$date": "2021-12-31T16:06:03.155Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cf2b3fd949f58248074646"
+  },
+  "userId": [
+    {
+      "$oid": "61afe544a473057ebb1d9c5f"
+    }
+  ],
+  "surveyId": [
+    {
+      "$oid": "61ca8c25e9fd827e5d808439"
+    }
+  ],
+  "reponse": [
+    "Quartz",
+    "Volcan"
+  ],
+  "updated_date": {
+    "$date": "2021-12-31T16:09:35.149Z"
+  },
+  "__v": 0
+}]
